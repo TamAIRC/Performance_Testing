@@ -1,0 +1,381 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1711526505078,21489,HTTP Request_test API kdcl pdf 1,500,INTERNAL SERVER ERROR,Thread Group 1-38,text,false,,350,274958,100,100,http://192.168.88.229:5000/api_ocr_kdcl,21489,0,2
+1711526506754,24531,HTTP Request_test API kdcl pdf 1,500,INTERNAL SERVER ERROR,Thread Group 1-52,text,false,,351,274958,100,100,http://192.168.88.229:5000/api_ocr_kdcl,24531,0,1
+1711526507843,23542,HTTP Request_test API kdcl pdf 1,500,INTERNAL SERVER ERROR,Thread Group 1-61,text,false,,351,274982,100,100,http://192.168.88.229:5000/api_ocr_kdcl,23542,0,1
+1711526511445,25828,HTTP Request_test API kdcl pdf 1,500,INTERNAL SERVER ERROR,Thread Group 1-91,text,false,,350,274961,100,100,http://192.168.88.229:5000/api_ocr_kdcl,25828,0,1
+1711526510238,30655,HTTP Request_test API kdcl pdf 1,500,INTERNAL SERVER ERROR,Thread Group 1-81,text,false,,351,274973,100,100,http://192.168.88.229:5000/api_ocr_kdcl,30655,0,1
+1711526500765,49020,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-2,text,true,,626,274964,100,100,http://192.168.88.229:5000/api_ocr_kdcl,49019,0,2
+1711526500631,51496,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-1,text,true,,626,274979,100,100,http://192.168.88.229:5000/api_ocr_kdcl,51496,0,1
+1711526501125,52217,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-5,text,true,,626,274961,100,100,http://192.168.88.229:5000/api_ocr_kdcl,52217,0,0
+1711526501000,52550,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-4,text,true,,626,274976,100,100,http://192.168.88.229:5000/api_ocr_kdcl,52550,0,1
+1711526501236,57052,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-6,text,true,,626,274976,100,100,http://192.168.88.229:5000/api_ocr_kdcl,57052,0,1
+1711526501359,57338,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-7,text,true,,626,274973,100,100,http://192.168.88.229:5000/api_ocr_kdcl,57338,0,1
+1711526501717,57150,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-10,text,true,,626,274955,100,100,http://192.168.88.229:5000/api_ocr_kdcl,57150,0,1
+1711526501482,57688,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-8,text,true,,626,274973,100,100,http://192.168.88.229:5000/api_ocr_kdcl,57688,0,1
+1711526501593,57652,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-9,text,true,,626,274958,100,100,http://192.168.88.229:5000/api_ocr_kdcl,57652,0,2
+1711526500875,58454,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-3,text,true,,626,274985,100,100,http://192.168.88.229:5000/api_ocr_kdcl,58454,0,1
+1711526502078,58135,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-13,text,true,,626,274970,100,100,http://192.168.88.229:5000/api_ocr_kdcl,58135,0,1
+1711526502204,58729,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-14,text,true,,626,274955,100,100,http://192.168.88.229:5000/api_ocr_kdcl,58729,0,1
+1711526501843,59322,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-11,text,true,,626,274985,100,100,http://192.168.88.229:5000/api_ocr_kdcl,59322,0,1
+1711526502313,60804,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-15,text,true,,626,274976,100,100,http://192.168.88.229:5000/api_ocr_kdcl,60804,0,1
+1711526501952,61800,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-12,text,true,,626,274982,100,100,http://192.168.88.229:5000/api_ocr_kdcl,61800,0,1
+1711526502684,62382,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-18,text,true,,626,274985,100,100,http://192.168.88.229:5000/api_ocr_kdcl,62382,0,1
+1711526502919,62567,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-20,text,true,,626,274985,100,100,http://192.168.88.229:5000/api_ocr_kdcl,62567,0,1
+1711526503278,63650,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-23,text,true,,626,274985,100,100,http://192.168.88.229:5000/api_ocr_kdcl,63650,0,1
+1711526503154,66771,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-22,text,true,,626,274970,100,100,http://192.168.88.229:5000/api_ocr_kdcl,66771,0,1
+1711526503401,77064,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-24,text,true,,626,274976,100,100,http://192.168.88.229:5000/api_ocr_kdcl,77064,0,2
+1711526502794,77831,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-19,text,true,,626,274979,100,100,http://192.168.88.229:5000/api_ocr_kdcl,77831,0,1
+1711526503633,81506,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-26,text,true,,689,274979,100,100,http://192.168.88.229:5000/api_ocr_kdcl,81506,0,1
+1711526503758,81858,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-27,text,true,,626,274955,100,100,http://192.168.88.229:5000/api_ocr_kdcl,81858,0,1
+1711526504360,86678,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-32,text,true,,626,274967,100,100,http://192.168.88.229:5000/api_ocr_kdcl,86678,0,2
+1711526504115,87024,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-30,text,true,,626,274979,100,100,http://192.168.88.229:5000/api_ocr_kdcl,87024,0,2
+1711526504237,87822,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-31,text,true,,626,274970,100,100,http://192.168.88.229:5000/api_ocr_kdcl,87822,0,1
+1711526503526,88789,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-25,text,true,,626,274955,100,100,http://192.168.88.229:5000/api_ocr_kdcl,88789,0,1
+1711526504004,90948,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-29,text,true,,683,274964,100,100,http://192.168.88.229:5000/api_ocr_kdcl,90948,0,1
+1711526502560,92672,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-17,text,true,,626,274970,100,100,http://192.168.88.229:5000/api_ocr_kdcl,92672,0,1
+1711526505558,92374,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-42,text,true,,626,274976,100,100,http://192.168.88.229:5000/api_ocr_kdcl,92374,0,2
+1711526502437,96270,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-16,text,true,,626,274958,100,100,http://192.168.88.229:5000/api_ocr_kdcl,96270,0,1
+1711526504598,94808,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-34,text,true,,626,274973,100,100,http://192.168.88.229:5000/api_ocr_kdcl,94808,0,1
+1711526505326,97290,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-40,text,true,,626,274973,100,100,http://192.168.88.229:5000/api_ocr_kdcl,97290,0,1
+1711526559169,45147,HTTP Request_test API kdcl pdf 2,500,INTERNAL SERVER ERROR,Thread Group 1-8,text,false,,348,966564,100,100,http://192.168.88.229:5000/api_ocr_kdcl,45147,0,1
+1711526505915,99710,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-45,text,true,,626,274985,100,100,http://192.168.88.229:5000/api_ocr_kdcl,99710,0,1
+1711526504719,102352,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-35,text,true,,626,274967,100,100,http://192.168.88.229:5000/api_ocr_kdcl,102351,0,2
+1711526506042,102954,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-46,text,true,,626,274970,100,100,http://192.168.88.229:5000/api_ocr_kdcl,102954,0,1
+1711526506397,104929,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-49,text,true,,626,274982,100,100,http://192.168.88.229:5000/api_ocr_kdcl,104929,0,2
+1711526505792,107849,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-44,text,true,,626,274982,100,100,http://192.168.88.229:5000/api_ocr_kdcl,107848,0,1
+1711526503043,110767,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-21,text,true,,626,274979,100,100,http://192.168.88.229:5000/api_ocr_kdcl,110767,0,1
+1711526506271,109750,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-48,text,true,,626,274955,100,100,http://192.168.88.229:5000/api_ocr_kdcl,109750,0,1
+1711526506165,110954,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-47,text,true,,626,274973,100,100,http://192.168.88.229:5000/api_ocr_kdcl,110954,0,1
+1711526507240,112070,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-56,text,true,,626,274964,100,100,http://192.168.88.229:5000/api_ocr_kdcl,112070,0,2
+1711526506879,112819,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-53,text,true,,626,274964,100,100,http://192.168.88.229:5000/api_ocr_kdcl,112818,0,3
+1711526507004,114344,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-54,text,true,,626,274958,100,100,http://192.168.88.229:5000/api_ocr_kdcl,114344,0,2
+1711526506645,115473,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-51,text,true,,626,274958,100,100,http://192.168.88.229:5000/api_ocr_kdcl,115473,0,2
+1711526507717,114694,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-60,text,true,,626,274955,100,100,http://192.168.88.229:5000/api_ocr_kdcl,114694,0,2
+1711526507113,119276,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-55,text,true,,626,274958,100,100,http://192.168.88.229:5000/api_ocr_kdcl,119276,0,2
+1711526504486,122626,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-33,text,true,,626,274982,100,100,http://192.168.88.229:5000/api_ocr_kdcl,122626,0,1
+1711526508074,119502,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-63,text,true,,626,274961,100,100,http://192.168.88.229:5000/api_ocr_kdcl,119502,0,2
+1711526510593,118386,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-84,text,true,,282,274973,100,100,http://192.168.88.229:5000/api_ocr_kdcl,118386,0,2
+1711526507594,121918,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-59,text,true,,626,274973,100,100,http://192.168.88.229:5000/api_ocr_kdcl,121918,0,1
+1711526505684,124873,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-43,text,true,,282,274961,100,100,http://192.168.88.229:5000/api_ocr_kdcl,124873,0,1
+1711526504847,126195,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-36,text,true,,626,274982,100,100,http://192.168.88.229:5000/api_ocr_kdcl,126195,0,3
+1711526510362,120917,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-82,text,true,,337,274973,100,100,http://192.168.88.229:5000/api_ocr_kdcl,120917,0,2
+1711526506522,125791,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-50,text,true,,337,274961,100,100,http://192.168.88.229:5000/api_ocr_kdcl,125790,0,2
+1711526503881,129077,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-28,text,true,,626,274982,100,100,http://192.168.88.229:5000/api_ocr_kdcl,129076,0,1
+1711526507967,125310,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-62,text,true,,626,274973,100,100,http://192.168.88.229:5000/api_ocr_kdcl,125309,0,1
+1711526505434,130094,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-41,text,true,,626,274982,100,100,http://192.168.88.229:5000/api_ocr_kdcl,130094,0,2
+1711526507363,128462,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-57,text,true,,626,274967,100,100,http://192.168.88.229:5000/api_ocr_kdcl,128462,0,3
+1711526504959,131271,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-37,text,true,,626,274979,100,100,http://192.168.88.229:5000/api_ocr_kdcl,131270,0,2
+1711526509522,128053,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-75,text,true,,626,274973,100,100,http://192.168.88.229:5000/api_ocr_kdcl,128053,0,2
+1711526508199,130193,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-64,text,true,,626,274955,100,100,http://192.168.88.229:5000/api_ocr_kdcl,130193,0,2
+1711526613811,26022,HTTP Request_test API kdcl pdf 2,500,INTERNAL SERVER ERROR,Thread Group 1-21,text,false,,258,966570,100,100,http://192.168.88.229:5000/api_ocr_kdcl,26022,0,1
+1711526608998,31350,HTTP Request_test API kdcl pdf 2,500,INTERNAL SERVER ERROR,Thread Group 1-46,text,false,,348,966570,100,100,http://192.168.88.229:5000/api_ocr_kdcl,31350,0,1
+1711526508805,132123,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-69,text,true,,626,274961,100,100,http://192.168.88.229:5000/api_ocr_kdcl,132122,0,2
+1711526509164,133050,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-72,text,true,,626,274955,100,100,http://192.168.88.229:5000/api_ocr_kdcl,133050,0,2
+1711526505201,139910,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-39,text,true,,626,274964,100,100,http://192.168.88.229:5000/api_ocr_kdcl,139910,0,1
+1711526509881,135608,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-78,text,true,,626,274967,100,100,http://192.168.88.229:5000/api_ocr_kdcl,135608,0,1
+1711526616021,30767,HTTP Request_test API kdcl pdf 2,500,INTERNAL SERVER ERROR,Thread Group 1-48,text,false,,348,966558,100,100,http://192.168.88.229:5000/api_ocr_kdcl,30767,0,2
+1711526508555,141293,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-67,text,true,,626,274967,100,100,http://192.168.88.229:5000/api_ocr_kdcl,141292,0,2
+1711526509991,144415,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-79,text,true,,683,274970,100,100,http://192.168.88.229:5000/api_ocr_kdcl,144414,0,1
+1711526507471,148072,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-58,text,true,,626,274955,100,100,http://192.168.88.229:5000/api_ocr_kdcl,148072,0,1
+1711526510841,144772,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-86,text,true,,689,274970,100,100,http://192.168.88.229:5000/api_ocr_kdcl,144772,0,1
+1711526512037,144568,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-96,text,true,,626,274961,100,100,http://192.168.88.229:5000/api_ocr_kdcl,144568,0,1
+1711526510952,147174,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-87,text,true,,626,274964,100,100,http://192.168.88.229:5000/api_ocr_kdcl,147174,0,1
+1711526510116,150391,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-80,text,true,,626,274982,100,100,http://192.168.88.229:5000/api_ocr_kdcl,150391,0,2
+1711526635529,25679,HTTP Request_test API kdcl pdf 2,500,INTERNAL SERVER ERROR,Thread Group 1-41,text,false,,258,966561,100,100,http://192.168.88.229:5000/api_ocr_kdcl,25679,0,2
+1711526510717,150598,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-85,text,true,,626,274979,100,100,http://192.168.88.229:5000/api_ocr_kdcl,150598,0,1
+1711526511323,150596,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-90,text,true,,626,274973,100,100,http://192.168.88.229:5000/api_ocr_kdcl,150596,0,1
+1711526508323,153884,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-65,text,true,,626,274970,100,100,http://192.168.88.229:5000/api_ocr_kdcl,153884,0,1
+1711526512274,151021,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-98,text,true,,626,274970,100,100,http://192.168.88.229:5000/api_ocr_kdcl,151021,0,1
+1711526511805,154217,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-94,text,true,,626,274970,100,100,http://192.168.88.229:5000/api_ocr_kdcl,154217,0,2
+1711526512520,153856,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-100,text,true,,626,274973,100,100,http://192.168.88.229:5000/api_ocr_kdcl,153855,0,1
+1711526508430,158445,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-66,text,true,,626,274958,100,100,http://192.168.88.229:5000/api_ocr_kdcl,158445,0,1
+1711526508682,159005,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-68,text,true,,626,274967,100,100,http://192.168.88.229:5000/api_ocr_kdcl,159005,0,5
+1711526512162,157658,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-97,text,true,,626,274979,100,100,http://192.168.88.229:5000/api_ocr_kdcl,157658,0,2
+1711526509395,160786,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-74,text,true,,626,274964,100,100,http://192.168.88.229:5000/api_ocr_kdcl,160785,0,2
+1711526645111,26342,HTTP Request_test API kdcl pdf 2,500,INTERNAL SERVER ERROR,Thread Group 1-39,text,false,,258,966561,100,100,http://192.168.88.229:5000/api_ocr_kdcl,26342,0,2
+1711526635826,36745,HTTP Request_test API kdcl pdf 2,500,INTERNAL SERVER ERROR,Thread Group 1-57,text,false,,348,966552,100,100,http://192.168.88.229:5000/api_ocr_kdcl,36744,0,2
+1711526672571,388,HTTP Request_test API kdcl image 1,500,INTERNAL SERVER ERROR,Thread Group 1-57,text,false,,348,484238,100,100,http://192.168.88.229:5000/api_ocr_kdcl,388,0,1
+1711526508913,164855,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-70,text,true,,626,274985,100,100,http://192.168.88.229:5000/api_ocr_kdcl,164855,0,2
+1711526509287,169116,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-73,text,true,,626,274970,100,100,http://192.168.88.229:5000/api_ocr_kdcl,169116,0,2
+1711526511915,167210,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-95,text,true,,626,274958,100,100,http://192.168.88.229:5000/api_ocr_kdcl,167210,0,2
+1711526509631,170200,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-76,text,true,,626,274979,100,100,http://192.168.88.229:5000/api_ocr_kdcl,170199,0,2
+1711526649849,31365,HTTP Request_test API kdcl pdf 2,500,INTERNAL SERVER ERROR,Thread Group 1-67,text,false,,348,966555,100,100,http://192.168.88.229:5000/api_ocr_kdcl,31365,0,1
+1711526509758,171971,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-77,text,true,,626,274967,100,100,http://192.168.88.229:5000/api_ocr_kdcl,171971,0,1
+1711526509039,173058,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-71,text,true,,626,274958,100,100,http://192.168.88.229:5000/api_ocr_kdcl,173057,0,1
+1711526511199,172910,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-89,text,true,,626,274976,100,100,http://192.168.88.229:5000/api_ocr_kdcl,172910,0,1
+1711526511554,173292,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-92,text,true,,626,274964,100,100,http://192.168.88.229:5000/api_ocr_kdcl,173292,0,2
+1711526511679,174944,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-93,text,true,,626,274955,100,100,http://192.168.88.229:5000/api_ocr_kdcl,174944,0,1
+1711526510475,178132,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-83,text,true,,626,274967,100,100,http://192.168.88.229:5000/api_ocr_kdcl,178132,0,2
+1711526656605,32903,HTTP Request_test API kdcl pdf 2,500,INTERNAL SERVER ERROR,Thread Group 1-96,text,false,,258,966555,100,100,http://192.168.88.229:5000/api_ocr_kdcl,32903,0,2
+1711526512398,177787,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-99,text,true,,626,274973,100,100,http://192.168.88.229:5000/api_ocr_kdcl,177787,0,2
+1711526537274,154207,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-91,text,true,,541,966540,100,100,http://192.168.88.229:5000/api_ocr_kdcl,154207,0,1
+1711526526569,168641,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-38,text,true,,541,966543,100,100,http://192.168.88.229:5000/api_ocr_kdcl,168640,0,3
+1711526511076,184218,HTTP Request_test API kdcl pdf 1,200,OK,Thread Group 1-88,text,true,,626,274967,100,100,http://192.168.88.229:5000/api_ocr_kdcl,184218,0,1
+1711526540894,154689,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-81,text,true,,541,966543,100,100,http://192.168.88.229:5000/api_ocr_kdcl,154689,0,1
+1711526552127,144024,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-1,text,true,,541,966555,100,100,http://192.168.88.229:5000/api_ocr_kdcl,144024,0,1
+1711526531385,165509,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-61,text,true,,541,966558,100,100,http://192.168.88.229:5000/api_ocr_kdcl,165508,0,2
+1711526531285,165696,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-52,text,true,,541,966546,100,100,http://192.168.88.229:5000/api_ocr_kdcl,165696,0,1
+1711526549785,151645,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-2,text,true,,541,966558,100,100,http://192.168.88.229:5000/api_ocr_kdcl,151645,0,1
+1711526558287,144440,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-6,text,true,,541,966567,100,100,http://192.168.88.229:5000/api_ocr_kdcl,144440,0,1
+1711526553343,150574,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-5,text,true,,541,966543,100,100,http://192.168.88.229:5000/api_ocr_kdcl,150574,0,1
+1711526558696,146021,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-7,text,true,,541,966564,100,100,http://192.168.88.229:5000/api_ocr_kdcl,146021,0,2
+1711526559331,147154,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-3,text,true,,541,966552,100,100,http://192.168.88.229:5000/api_ocr_kdcl,147154,0,1
+1711526561164,147836,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-11,text,true,,541,966558,100,100,http://192.168.88.229:5000/api_ocr_kdcl,147836,0,1
+1711526560212,150471,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-13,text,true,,541,966540,100,100,http://192.168.88.229:5000/api_ocr_kdcl,150471,0,1
+1711526559244,151668,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-9,text,true,,541,966546,100,100,http://192.168.88.229:5000/api_ocr_kdcl,151668,0,1
+1711526558866,152052,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-10,text,true,,541,966540,100,100,http://192.168.88.229:5000/api_ocr_kdcl,152052,0,1
+1711526553550,158946,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-4,text,true,,541,966555,100,100,http://192.168.88.229:5000/api_ocr_kdcl,158946,0,1
+1711526563117,150113,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-15,text,true,,541,966567,100,100,http://192.168.88.229:5000/api_ocr_kdcl,150113,0,1
+1711526563751,150625,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-12,text,true,,541,966546,100,100,http://192.168.88.229:5000/api_ocr_kdcl,150625,0,1
+1711526604317,110922,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-8,text,true,,565,484238,100,100,http://192.168.88.229:5000/api_ocr_kdcl,110921,0,2
+1711526565067,151932,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-18,text,true,,541,966543,100,100,http://192.168.88.229:5000/api_ocr_kdcl,151932,0,2
+1711526560932,158737,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-14,text,true,,541,966540,100,100,http://192.168.88.229:5000/api_ocr_kdcl,158737,0,1
+1711526569925,150257,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-22,text,true,,541,966540,100,100,http://192.168.88.229:5000/api_ocr_kdcl,150257,0,1
+1711526565487,155771,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-20,text,true,,541,966558,100,100,http://192.168.88.229:5000/api_ocr_kdcl,155771,0,2
+1711526566929,155591,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-23,text,true,,541,966552,100,100,http://192.168.88.229:5000/api_ocr_kdcl,155591,0,1
+1711526599406,124281,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-34,text,true,,541,966546,100,100,http://192.168.88.229:5000/api_ocr_kdcl,124281,0,2
+1711526580626,143476,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-19,text,true,,541,966546,100,100,http://192.168.88.229:5000/api_ocr_kdcl,143476,0,2
+1711526639834,85566,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-21,text,true,,565,484238,100,100,http://192.168.88.229:5000/api_ocr_kdcl,85566,0,1
+1711526640352,85831,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-46,text,true,,565,484238,100,100,http://192.168.88.229:5000/api_ocr_kdcl,85830,0,2
+1711526607072,119487,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-35,text,true,,541,966546,100,100,http://192.168.88.229:5000/api_ocr_kdcl,119487,0,2
+1711526646788,79858,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-48,text,true,,565,484232,100,100,http://192.168.88.229:5000/api_ocr_kdcl,79858,0,1
+1711526617119,110427,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-47,text,true,,541,966561,100,100,http://192.168.88.229:5000/api_ocr_kdcl,110427,0,1
+1711526621350,107072,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-54,text,true,,541,966540,100,100,http://192.168.88.229:5000/api_ocr_kdcl,107072,0,2
+1711526661208,68700,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-41,text,true,,565,484235,100,100,http://192.168.88.229:5000/api_ocr_kdcl,68699,0,2
+1711526626393,103558,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-55,text,true,,541,966561,100,100,http://192.168.88.229:5000/api_ocr_kdcl,103558,0,5
+1711526630557,99926,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-43,text,true,,541,966540,100,100,http://192.168.88.229:5000/api_ocr_kdcl,99925,0,2
+1711526631042,99618,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-36,text,true,,541,966543,100,100,http://192.168.88.229:5000/api_ocr_kdcl,99618,0,2
+1711526638392,92981,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-64,text,true,,541,966558,100,100,http://192.168.88.229:5000/api_ocr_kdcl,92981,0,2
+1711526672981,58692,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-57,text,true,,490,415184,100,100,http://192.168.88.229:5000/api_ocr_kdcl,58692,0,2
+1711526636231,95989,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-37,text,true,,541,966543,100,100,http://192.168.88.229:5000/api_ocr_kdcl,95988,0,1
+1711526671455,61104,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-39,text,true,,565,484256,100,100,http://192.168.88.229:5000/api_ocr_kdcl,61104,0,1
+1711526681214,51964,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-67,text,true,,565,484262,100,100,http://192.168.88.229:5000/api_ocr_kdcl,51964,0,1
+1711526654406,79376,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-79,text,true,,541,966564,100,100,http://192.168.88.229:5000/api_ocr_kdcl,79376,0,1
+1711526655543,78494,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-58,text,true,,541,966561,100,100,http://192.168.88.229:5000/api_ocr_kdcl,78494,0,1
+1711526689509,44902,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-96,text,true,,565,484253,100,100,http://192.168.88.229:5000/api_ocr_kdcl,44902,0,1
+1711526691483,43232,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-91,text,true,,565,484247,100,100,http://192.168.88.229:5000/api_ocr_kdcl,43231,0,1
+1711526695210,40326,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-38,text,true,,565,484232,100,100,http://192.168.88.229:5000/api_ocr_kdcl,40326,0,1
+1711526695582,40834,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-81,text,true,,565,484241,100,100,http://192.168.88.229:5000/api_ocr_kdcl,40834,0,1
+1711526696150,40885,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-1,text,true,,565,484256,100,100,http://192.168.88.229:5000/api_ocr_kdcl,40885,0,1
+1711526696894,40553,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-61,text,true,,565,484232,100,100,http://192.168.88.229:5000/api_ocr_kdcl,40553,0,1
+1711526696981,41280,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-52,text,true,,565,484238,100,100,http://192.168.88.229:5000/api_ocr_kdcl,41280,0,1
+1711526661315,78344,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-85,text,true,,541,966543,100,100,http://192.168.88.229:5000/api_ocr_kdcl,78344,0,2
+1711526661920,78814,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-90,text,true,,541,966555,100,100,http://192.168.88.229:5000/api_ocr_kdcl,78814,0,1
+1711526701429,39658,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-2,text,true,,565,484247,100,100,http://192.168.88.229:5000/api_ocr_kdcl,39658,0,1
+1711526702727,39301,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-6,text,true,,565,484244,100,100,http://192.168.88.229:5000/api_ocr_kdcl,39301,0,2
+1711526703916,39345,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-5,text,true,,565,484250,100,100,http://192.168.88.229:5000/api_ocr_kdcl,39344,0,2
+1711526704718,38864,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-7,text,true,,565,484238,100,100,http://192.168.88.229:5000/api_ocr_kdcl,38864,0,0
+1711526669821,75096,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-97,text,true,,541,966549,100,100,http://192.168.88.229:5000/api_ocr_kdcl,75096,0,1
+1711526666377,79299,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-100,text,true,,541,966555,100,100,http://192.168.88.229:5000/api_ocr_kdcl,79299,0,1
+1711526706485,40009,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-3,text,true,,565,484238,100,100,http://192.168.88.229:5000/api_ocr_kdcl,40009,0,2
+1711526709001,38250,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-11,text,true,,565,484259,100,100,http://192.168.88.229:5000/api_ocr_kdcl,38250,0,1
+1711526673769,74678,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-70,text,true,,541,966552,100,100,http://192.168.88.229:5000/api_ocr_kdcl,74678,0,1
+1711526710683,38241,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-13,text,true,,565,484232,100,100,http://192.168.88.229:5000/api_ocr_kdcl,38241,0,2
+1711526710912,39303,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-9,text,true,,565,484253,100,100,http://192.168.88.229:5000/api_ocr_kdcl,39303,0,2
+1711526710919,39973,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-10,text,true,,565,484247,100,100,http://192.168.88.229:5000/api_ocr_kdcl,39973,0,2
+1711526679126,72870,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-95,text,true,,541,966555,100,100,http://192.168.88.229:5000/api_ocr_kdcl,72869,0,0
+1711526712495,40495,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-4,text,true,,565,484253,100,100,http://192.168.88.229:5000/api_ocr_kdcl,40495,0,2
+1711526678403,75895,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-73,text,true,,541,966549,100,100,http://192.168.88.229:5000/api_ocr_kdcl,75894,0,2
+1711526679834,75367,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-76,text,true,,541,966540,100,100,http://192.168.88.229:5000/api_ocr_kdcl,75367,0,2
+1711526713230,42659,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-15,text,true,,565,484253,100,100,http://192.168.88.229:5000/api_ocr_kdcl,42659,0,1
+1711526714376,42208,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-12,text,true,,565,484241,100,100,http://192.168.88.229:5000/api_ocr_kdcl,42208,0,1
+1711526715238,41384,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-8,text,true,,490,415166,100,100,http://192.168.88.229:5000/api_ocr_kdcl,41384,0,1
+1711526682101,75406,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-71,text,true,,541,966558,100,100,http://192.168.88.229:5000/api_ocr_kdcl,75406,0,1
+1711526681730,77657,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-77,text,true,,541,966561,100,100,http://192.168.88.229:5000/api_ocr_kdcl,77657,0,1
+1711526716999,43047,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-18,text,true,,565,484253,100,100,http://192.168.88.229:5000/api_ocr_kdcl,43047,0,1
+1711526684109,77200,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-89,text,true,,541,966549,100,100,http://192.168.88.229:5000/api_ocr_kdcl,77200,0,2
+1711526684847,77327,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-92,text,true,,541,966546,100,100,http://192.168.88.229:5000/api_ocr_kdcl,77327,0,1
+1711526719669,43576,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-14,text,true,,565,484253,100,100,http://192.168.88.229:5000/api_ocr_kdcl,43576,0,1
+1711526720192,43633,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-22,text,true,,565,484232,100,100,http://192.168.88.229:5000/api_ocr_kdcl,43633,0,1
+1711526721258,43477,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-20,text,true,,565,484235,100,100,http://192.168.88.229:5000/api_ocr_kdcl,43477,0,1
+1711526686624,79234,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-93,text,true,,541,966567,100,100,http://192.168.88.229:5000/api_ocr_kdcl,79234,0,1
+1711526722520,44305,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-23,text,true,,565,484241,100,100,http://192.168.88.229:5000/api_ocr_kdcl,44305,0,1
+1711526688608,79383,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-83,text,true,,541,966543,100,100,http://192.168.88.229:5000/api_ocr_kdcl,79383,0,2
+1711526723688,45117,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-34,text,true,,565,484235,100,100,http://192.168.88.229:5000/api_ocr_kdcl,45117,0,1
+1711526725402,44454,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-21,text,true,,490,415181,100,100,http://192.168.88.229:5000/api_ocr_kdcl,44454,0,0
+1711526690187,79807,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-99,text,true,,541,966543,100,100,http://192.168.88.229:5000/api_ocr_kdcl,79807,0,1
+1711526724102,46384,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-19,text,true,,565,484250,100,100,http://192.168.88.229:5000/api_ocr_kdcl,46384,0,1
+1711526726186,45194,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-46,text,true,,490,415193,100,100,http://192.168.88.229:5000/api_ocr_kdcl,45194,0,1
+1711526695294,76970,HTTP Request_test API kdcl pdf 2,200,OK,Thread Group 1-88,text,true,,541,966549,100,100,http://192.168.88.229:5000/api_ocr_kdcl,76970,0,2
+1711526726648,46365,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-48,text,true,,490,415172,100,100,http://192.168.88.229:5000/api_ocr_kdcl,46365,0,1
+1711526726559,46976,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-35,text,true,,565,484259,100,100,http://192.168.88.229:5000/api_ocr_kdcl,46976,0,1
+1711526727548,47658,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-47,text,true,,565,484262,100,100,http://192.168.88.229:5000/api_ocr_kdcl,47658,0,1
+1711526729909,46094,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-41,text,true,,490,415193,100,100,http://192.168.88.229:5000/api_ocr_kdcl,46094,0,1
+1711526728422,48259,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-54,text,true,,565,484256,100,100,http://192.168.88.229:5000/api_ocr_kdcl,48259,0,1
+1711526729953,47882,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-55,text,true,,565,484256,100,100,http://192.168.88.229:5000/api_ocr_kdcl,47881,0,1
+1711526730484,48373,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-43,text,true,,565,484250,100,100,http://192.168.88.229:5000/api_ocr_kdcl,48373,0,1
+1711526730661,49010,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-36,text,true,,565,484253,100,100,http://192.168.88.229:5000/api_ocr_kdcl,49010,0,1
+1711526731375,49184,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-64,text,true,,565,484253,100,100,http://192.168.88.229:5000/api_ocr_kdcl,49184,0,0
+1711526731674,49965,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-57,text,true,,542,355673,100,100,http://192.168.88.229:5000/api_ocr_kdcl,49965,0,1
+1711526732559,49236,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-39,text,true,,490,415166,99,99,http://192.168.88.229:5000/api_ocr_kdcl,49236,0,1
+1711526732220,50265,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-37,text,true,,565,484238,99,99,http://192.168.88.229:5000/api_ocr_kdcl,50265,0,1
+1711526733180,49393,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-67,text,true,,490,415187,99,99,http://192.168.88.229:5000/api_ocr_kdcl,49393,0,1
+1711526734411,50506,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-96,text,true,,490,415178,99,99,http://192.168.88.229:5000/api_ocr_kdcl,50506,0,1
+1711526733784,51178,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-79,text,true,,565,484250,99,99,http://192.168.88.229:5000/api_ocr_kdcl,51178,0,0
+1711526734038,51569,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-58,text,true,,565,484247,99,99,http://192.168.88.229:5000/api_ocr_kdcl,51569,0,1
+1711526734715,51312,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-91,text,true,,490,415181,99,99,http://192.168.88.229:5000/api_ocr_kdcl,51312,0,1
+1711526735537,50995,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-38,text,true,,490,415181,99,99,http://192.168.88.229:5000/api_ocr_kdcl,50995,0,1
+1711526736418,50605,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-81,text,true,,490,415184,99,99,http://192.168.88.229:5000/api_ocr_kdcl,50605,0,0
+1711526737036,50878,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-1,text,true,,490,415163,99,99,http://192.168.88.229:5000/api_ocr_kdcl,50877,0,1
+1711526737448,51336,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-61,text,true,,490,415178,99,99,http://192.168.88.229:5000/api_ocr_kdcl,51336,0,1
+1711526738262,50754,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-52,text,true,,490,415181,99,99,http://192.168.88.229:5000/api_ocr_kdcl,50753,0,1
+1711526739661,51565,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-85,text,true,,565,484238,99,99,http://192.168.88.229:5000/api_ocr_kdcl,51565,0,0
+1711526741089,50426,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-2,text,true,,490,415181,99,99,http://192.168.88.229:5000/api_ocr_kdcl,50426,0,1
+1711526742029,49960,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-6,text,true,,490,415169,99,99,http://192.168.88.229:5000/api_ocr_kdcl,49960,0,1
+1711526740735,51684,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-90,text,true,,565,484235,99,99,http://192.168.88.229:5000/api_ocr_kdcl,51684,0,1
+1711526743261,49530,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-5,text,true,,490,415169,99,99,http://192.168.88.229:5000/api_ocr_kdcl,49530,0,1
+1711526743583,49973,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-7,text,true,,490,415172,99,99,http://192.168.88.229:5000/api_ocr_kdcl,49973,0,1
+1711526746494,49072,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-3,text,true,,490,415175,99,99,http://192.168.88.229:5000/api_ocr_kdcl,49072,0,2
+1711526744916,50934,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-97,text,true,,565,484262,99,99,http://192.168.88.229:5000/api_ocr_kdcl,50934,0,2
+1711526747260,49096,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-11,text,true,,490,415193,99,99,http://192.168.88.229:5000/api_ocr_kdcl,49095,0,2
+1711526745675,50691,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-100,text,true,,565,484247,99,99,http://192.168.88.229:5000/api_ocr_kdcl,50691,0,8
+1711526748924,48712,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-13,text,true,,490,415166,99,99,http://192.168.88.229:5000/api_ocr_kdcl,48712,0,1
+1711526748447,49795,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-70,text,true,,565,484247,99,99,http://192.168.88.229:5000/api_ocr_kdcl,49795,0,1
+1711526750216,48211,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-9,text,true,,490,415193,99,99,http://192.168.88.229:5000/api_ocr_kdcl,48211,0,1
+1711526750892,48371,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-10,text,true,,490,415187,99,99,http://192.168.88.229:5000/api_ocr_kdcl,48371,0,1
+1711526752991,47374,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-4,text,true,,490,415184,99,99,http://192.168.88.229:5000/api_ocr_kdcl,47374,0,1
+1711526751996,49132,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-95,text,true,,565,484253,99,99,http://192.168.88.229:5000/api_ocr_kdcl,49132,0,1
+1711526754299,48372,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-73,text,true,,565,484244,99,99,http://192.168.88.229:5000/api_ocr_kdcl,48372,0,1
+1711526755890,47087,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-15,text,true,,490,415178,99,99,http://192.168.88.229:5000/api_ocr_kdcl,47087,0,1
+1711526756585,46836,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-12,text,true,,490,415184,99,99,http://192.168.88.229:5000/api_ocr_kdcl,46836,0,1
+1711526755203,48469,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-76,text,true,,565,484244,99,99,http://192.168.88.229:5000/api_ocr_kdcl,48469,0,1
+1711526756623,49313,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-8,text,true,,542,355676,99,99,http://192.168.88.229:5000/api_ocr_kdcl,49313,0,1
+1711526757509,49189,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-71,text,true,,565,484256,98,98,http://192.168.88.229:5000/api_ocr_kdcl,49188,0,1
+1711526760047,46730,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-18,text,true,,490,415166,98,98,http://192.168.88.229:5000/api_ocr_kdcl,46730,0,1
+1711526759389,48164,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-77,text,true,,565,484232,98,98,http://192.168.88.229:5000/api_ocr_kdcl,48164,0,0
+1711526761310,47569,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-89,text,true,,565,484256,98,98,http://192.168.88.229:5000/api_ocr_kdcl,47569,0,1
+1711526763246,45670,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-14,text,true,,490,415190,98,98,http://192.168.88.229:5000/api_ocr_kdcl,45670,0,1
+1711526763826,45577,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-22,text,true,,490,415187,98,98,http://192.168.88.229:5000/api_ocr_kdcl,45577,0,1
+1711526762175,47394,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-92,text,true,,565,484232,98,98,http://192.168.88.229:5000/api_ocr_kdcl,47394,0,1
+1711526764736,45785,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-20,text,true,,490,415187,98,98,http://192.168.88.229:5000/api_ocr_kdcl,45784,0,1
+1711526766826,44690,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-23,text,true,,490,415169,98,98,http://192.168.88.229:5000/api_ocr_kdcl,44690,0,1
+1711526765859,46477,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-93,text,true,,565,484256,98,98,http://192.168.88.229:5000/api_ocr_kdcl,46477,0,2
+1711526768805,44422,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-34,text,true,,490,415169,98,98,http://192.168.88.229:5000/api_ocr_kdcl,44422,0,10
+1711526767991,45645,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-83,text,true,,565,484238,98,98,http://192.168.88.229:5000/api_ocr_kdcl,45645,0,1
+1711526769856,45211,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-21,text,true,,542,355691,98,98,http://192.168.88.229:5000/api_ocr_kdcl,45211,0,1
+1711526770487,44909,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-19,text,true,,490,415169,97,97,http://192.168.88.229:5000/api_ocr_kdcl,44908,0,1
+1711526769994,45934,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-99,text,true,,565,484241,97,97,http://192.168.88.229:5000/api_ocr_kdcl,45934,0,1
+1711526771381,46092,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-46,text,true,,542,355685,97,97,http://192.168.88.229:5000/api_ocr_kdcl,46092,0,1
+1711526773535,44689,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-35,text,true,,490,415178,96,96,http://192.168.88.229:5000/api_ocr_kdcl,44689,0,1
+1711526772266,46287,HTTP Request_test API kdcl image 1,200,OK,Thread Group 1-88,text,true,,565,484232,96,96,http://192.168.88.229:5000/api_ocr_kdcl,46287,0,0
+1711526773012,45921,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-48,text,true,,542,355685,96,96,http://192.168.88.229:5000/api_ocr_kdcl,45921,0,1
+1711526775206,43821,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-47,text,true,,490,415190,95,95,http://192.168.88.229:5000/api_ocr_kdcl,43821,0,0
+1711526776681,43562,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-54,text,true,,490,415187,95,95,http://192.168.88.229:5000/api_ocr_kdcl,43561,0,0
+1711526776002,44654,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-41,text,true,,542,355676,95,95,http://192.168.88.229:5000/api_ocr_kdcl,44653,0,1
+1711526777834,43135,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-55,text,true,,490,415190,94,94,http://192.168.88.229:5000/api_ocr_kdcl,43135,0,1
+1711526778857,43323,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-43,text,true,,490,415163,94,94,http://192.168.88.229:5000/api_ocr_kdcl,43322,0,1
+1711526779670,42995,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-36,text,true,,490,415184,94,94,http://192.168.88.229:5000/api_ocr_kdcl,42995,0,1
+1711526780558,42339,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-64,text,true,,490,415166,94,94,http://192.168.88.229:5000/api_ocr_kdcl,42338,0,1
+1711526782484,41919,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-37,text,true,,490,415184,94,94,http://192.168.88.229:5000/api_ocr_kdcl,41919,0,1
+1711526781815,42820,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-39,text,true,,542,355679,94,94,http://192.168.88.229:5000/api_ocr_kdcl,42820,0,1
+1711526782573,43818,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-67,text,true,,542,355700,93,93,http://192.168.88.229:5000/api_ocr_kdcl,43818,0,1
+1711526784961,41614,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-79,text,true,,490,415190,92,92,http://192.168.88.229:5000/api_ocr_kdcl,41614,0,1
+1711526784916,41813,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-96,text,true,,542,355679,92,92,http://192.168.88.229:5000/api_ocr_kdcl,41813,0,1
+1711526785607,41604,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-58,text,true,,490,415181,91,91,http://192.168.88.229:5000/api_ocr_kdcl,41604,0,0
+1711526786027,43288,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-91,text,true,,542,355703,91,91,http://192.168.88.229:5000/api_ocr_kdcl,43288,0,0
+1711526786531,43645,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-38,text,true,,542,355700,90,90,http://192.168.88.229:5000/api_ocr_kdcl,43645,0,1
+1711526787022,43934,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-81,text,true,,542,355697,89,89,http://192.168.88.229:5000/api_ocr_kdcl,43934,0,1
+1711526787913,44197,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-1,text,true,,542,355691,88,88,http://192.168.88.229:5000/api_ocr_kdcl,44197,0,1
+1711526788783,43604,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-61,text,true,,542,355688,87,87,http://192.168.88.229:5000/api_ocr_kdcl,43604,0,1
+1711526791225,41547,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-85,text,true,,490,415187,86,86,http://192.168.88.229:5000/api_ocr_kdcl,41547,0,1
+1711526789015,44359,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-52,text,true,,542,355691,86,86,http://192.168.88.229:5000/api_ocr_kdcl,44359,0,1
+1711526791514,43529,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-2,text,true,,542,355697,85,85,http://192.168.88.229:5000/api_ocr_kdcl,43529,0,1
+1711526792419,42747,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-90,text,true,,490,415181,84,84,http://192.168.88.229:5000/api_ocr_kdcl,42747,0,1
+1711526791999,43844,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-6,text,true,,542,355688,84,84,http://192.168.88.229:5000/api_ocr_kdcl,43844,0,0
+1711526792791,44506,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-5,text,true,,542,355703,83,83,http://192.168.88.229:5000/api_ocr_kdcl,44506,0,1
+1711526793556,44473,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-7,text,true,,542,355691,82,82,http://192.168.88.229:5000/api_ocr_kdcl,44472,0,1
+1711526795850,42515,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-97,text,true,,490,415166,81,81,http://192.168.88.229:5000/api_ocr_kdcl,42515,0,1
+1711526795566,43508,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-3,text,true,,542,355673,81,81,http://192.168.88.229:5000/api_ocr_kdcl,43508,0,1
+1711526796366,43612,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-100,text,true,,490,415190,80,80,http://192.168.88.229:5000/api_ocr_kdcl,43612,0,1
+1711526796356,44167,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-11,text,true,,542,355685,80,80,http://192.168.88.229:5000/api_ocr_kdcl,44167,0,1
+1711526798243,43150,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-70,text,true,,490,415175,79,79,http://192.168.88.229:5000/api_ocr_kdcl,43150,0,1
+1711526797636,44402,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-13,text,true,,542,355679,79,79,http://192.168.88.229:5000/api_ocr_kdcl,44401,0,1
+1711526798428,45240,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-9,text,true,,542,355676,78,78,http://192.168.88.229:5000/api_ocr_kdcl,45240,0,1
+1711526799265,45440,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-10,text,true,,542,355685,77,77,http://192.168.88.229:5000/api_ocr_kdcl,45439,0,1
+1711526801129,43608,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-95,text,true,,490,415175,76,76,http://192.168.88.229:5000/api_ocr_kdcl,43608,0,1
+1711526800365,44835,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-4,text,true,,542,355703,76,76,http://192.168.88.229:5000/api_ocr_kdcl,44834,0,1
+1711526802672,42737,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-73,text,true,,490,415190,75,75,http://192.168.88.229:5000/api_ocr_kdcl,42737,0,1
+1711526803735,44099,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-76,text,true,,490,415193,75,75,http://192.168.88.229:5000/api_ocr_kdcl,44099,0,1
+1711526802977,44891,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-15,text,true,,542,355703,75,75,http://192.168.88.229:5000/api_ocr_kdcl,44891,0,1
+1711526803420,45017,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-12,text,true,,542,355691,74,74,http://192.168.88.229:5000/api_ocr_kdcl,45017,0,1
+1711526806697,41995,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-71,text,true,,490,415184,73,73,http://192.168.88.229:5000/api_ocr_kdcl,41995,0,1
+1711526807552,42532,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-77,text,true,,490,415169,73,73,http://192.168.88.229:5000/api_ocr_kdcl,42531,0,1
+1711526806780,43633,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-18,text,true,,542,355676,73,73,http://192.168.88.229:5000/api_ocr_kdcl,43633,0,1
+1711526808880,41873,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-89,text,true,,490,415190,72,72,http://192.168.88.229:5000/api_ocr_kdcl,41873,0,0
+1711526808916,44139,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-14,text,true,,542,355679,72,72,http://192.168.88.229:5000/api_ocr_kdcl,44139,0,1
+1711526809569,43919,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-92,text,true,,490,415163,71,71,http://192.168.88.229:5000/api_ocr_kdcl,43919,0,1
+1711526809403,44791,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-22,text,true,,542,355700,71,71,http://192.168.88.229:5000/api_ocr_kdcl,44791,0,1
+1711526810521,44946,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-20,text,true,,542,355685,70,70,http://192.168.88.229:5000/api_ocr_kdcl,44946,0,1
+1711526812336,43369,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-93,text,true,,490,415172,69,69,http://192.168.88.229:5000/api_ocr_kdcl,43369,0,1
+1711526811516,44726,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-23,text,true,,542,355679,69,69,http://192.168.88.229:5000/api_ocr_kdcl,44726,0,1
+1711526813635,43722,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-83,text,true,,490,415181,68,68,http://192.168.88.229:5000/api_ocr_kdcl,43722,0,1
+1711526813226,44661,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-34,text,true,,542,355697,68,68,http://192.168.88.229:5000/api_ocr_kdcl,44661,0,1
+1711526815964,43124,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-99,text,true,,490,415169,67,67,http://192.168.88.229:5000/api_ocr_kdcl,43124,0,1
+1711526815449,44314,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-19,text,true,,542,355694,67,67,http://192.168.88.229:5000/api_ocr_kdcl,44314,0,1
+1711526818552,42296,HTTP Request_test API kdcl image 2,200,OK,Thread Group 1-88,text,true,,490,415178,66,66,http://192.168.88.229:5000/api_ocr_kdcl,42296,0,1
+1711526818225,43283,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-35,text,true,,542,355682,66,66,http://192.168.88.229:5000/api_ocr_kdcl,43283,0,0
+1711526819027,44118,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-47,text,true,,542,355697,65,65,http://192.168.88.229:5000/api_ocr_kdcl,44118,0,2
+1711526820243,43649,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-54,text,true,,542,355691,64,64,http://192.168.88.229:5000/api_ocr_kdcl,43649,0,1
+1711526821020,44021,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-55,text,true,,542,355682,63,63,http://192.168.88.229:5000/api_ocr_kdcl,44021,0,1
+1711526822180,43767,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-43,text,true,,542,355679,62,62,http://192.168.88.229:5000/api_ocr_kdcl,43767,0,1
+1711526822665,44545,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-36,text,true,,542,355688,61,61,http://192.168.88.229:5000/api_ocr_kdcl,44545,0,1
+1711526822898,45137,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-64,text,true,,542,355682,60,60,http://192.168.88.229:5000/api_ocr_kdcl,45137,0,1
+1711526824404,44301,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-37,text,true,,542,355694,59,59,http://192.168.88.229:5000/api_ocr_kdcl,44301,0,1
+1711526826597,42858,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-79,text,true,,542,355697,58,58,http://192.168.88.229:5000/api_ocr_kdcl,42858,0,1
+1711526827212,43620,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-58,text,true,,542,355682,57,57,http://192.168.88.229:5000/api_ocr_kdcl,43620,0,1
+1711526832773,38738,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-85,text,true,,542,355688,56,56,http://192.168.88.229:5000/api_ocr_kdcl,38738,0,1
+1711526835166,37217,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-90,text,true,,542,355685,55,55,http://192.168.88.229:5000/api_ocr_kdcl,37217,0,1
+1711526838365,35070,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-97,text,true,,542,355694,54,54,http://192.168.88.229:5000/api_ocr_kdcl,35070,0,1
+1711526839978,34370,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-100,text,true,,542,355673,53,53,http://192.168.88.229:5000/api_ocr_kdcl,34370,0,1
+1711526841392,34199,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-70,text,true,,542,355691,52,52,http://192.168.88.229:5000/api_ocr_kdcl,34199,0,1
+1711526844737,31626,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-95,text,true,,542,355673,51,51,http://192.168.88.229:5000/api_ocr_kdcl,31626,0,1
+1711526845496,31906,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-73,text,true,,542,355703,50,50,http://192.168.88.229:5000/api_ocr_kdcl,31906,0,1
+1711526847834,30435,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-76,text,true,,542,355703,49,49,http://192.168.88.229:5000/api_ocr_kdcl,30434,0,1
+1711526848692,30799,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-71,text,true,,542,355685,48,48,http://192.168.88.229:5000/api_ocr_kdcl,30799,0,1
+1711526850084,30250,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-77,text,true,,542,355688,47,47,http://192.168.88.229:5000/api_ocr_kdcl,30250,0,0
+1711526850752,30336,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-89,text,true,,542,355688,46,46,http://192.168.88.229:5000/api_ocr_kdcl,30336,0,1
+1711526853489,28111,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-92,text,true,,542,355703,45,45,http://192.168.88.229:5000/api_ocr_kdcl,28111,0,1
+1711526855706,26491,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-93,text,true,,542,355685,44,44,http://192.168.88.229:5000/api_ocr_kdcl,26491,0,0
+1711526857358,25136,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-83,text,true,,542,355685,43,43,http://192.168.88.229:5000/api_ocr_kdcl,25136,0,1
+1711526859088,23784,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-99,text,true,,542,355694,42,42,http://192.168.88.229:5000/api_ocr_kdcl,23784,0,1
+1711526860848,22221,HTTP Request_test API kdcl image 3,200,OK,Thread Group 1-88,text,true,,542,355703,41,41,http://192.168.88.229:5000/api_ocr_kdcl,22221,0,1
+1711526666023,1816807,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-94,text,false,,2556,0,40,40,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526655614,1827215,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-86,text,false,,2556,0,40,40,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526637575,1845252,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-75,text,false,,2556,0,40,40,http://192.168.88.229:5000/api_ocr_kdcl,0,0,2
+1711526662207,1820621,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-65,text,false,,2556,0,40,40,http://192.168.88.229:5000/api_ocr_kdcl,0,0,2
+1711526670182,1812648,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-74,text,false,,2556,0,40,40,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526663297,1819531,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-98,text,false,,2556,0,40,40,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526592316,1890511,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-25,text,false,,2556,0,40,40,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526632959,1849872,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-28,text,false,,2556,0,33,33,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526592060,1890772,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-31,text,false,,2556,0,32,32,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526611327,1871506,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-49,text,false,,2556,0,31,31,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526591139,1891693,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-30,text,false,,2556,0,30,30,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526597933,1884900,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-42,text,false,,2556,0,29,29,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526602618,1880217,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-40,text,false,,2556,0,28,28,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526619699,1863136,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-53,text,false,,2556,0,28,28,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526622119,1860717,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-51,text,false,,2556,0,26,26,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526595233,1887603,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-17,text,false,,2556,0,26,26,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526633278,1849559,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-62,text,false,,2556,0,24,24,http://192.168.88.229:5000/api_ocr_kdcl,0,0,2
+1711526594953,1887885,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-29,text,false,,2556,0,23,23,http://192.168.88.229:5000/api_ocr_kdcl,0,0,2
+1711526585617,1897222,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-27,text,false,,2556,0,22,22,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526627112,1855726,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-33,text,false,,2556,0,21,21,http://192.168.88.229:5000/api_ocr_kdcl,0,0,2
+1711526613641,1869197,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-44,text,false,,2556,0,20,20,http://192.168.88.229:5000/api_ocr_kdcl,0,0,2
+1711526666876,1815963,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-66,text,false,,2556,0,19,19,http://192.168.88.229:5000/api_ocr_kdcl,0,0,2
+1711526598707,1884131,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-16,text,false,,2556,0,18,18,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526619312,1863528,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-56,text,false,,2556,0,17,17,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526660507,1822332,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-80,text,false,,2556,0,16,16,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526622412,1860428,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-60,text,false,,2556,0,15,15,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526640928,1841911,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-69,text,false,,2556,0,15,15,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526629513,1853326,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-59,text,false,,2556,0,13,13,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526628980,1853859,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-84,text,false,,2556,0,13,13,http://192.168.88.229:5000/api_ocr_kdcl,0,0,2
+1711526667689,1815151,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-68,text,false,,2556,0,11,11,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526631280,1851559,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-82,text,false,,2556,0,11,11,http://192.168.88.229:5000/api_ocr_kdcl,0,0,2
+1711526642215,1840624,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-72,text,false,,2556,0,11,11,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526632313,1850527,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-50,text,false,,2556,0,8,8,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526658127,1824713,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-87,text,false,,2556,0,7,7,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526591038,1891802,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-32,text,false,,2556,0,7,7,http://192.168.88.229:5000/api_ocr_kdcl,0,0,2
+1711526627576,1855264,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-63,text,false,,2556,0,6,6,http://192.168.88.229:5000/api_ocr_kdcl,0,0,2
+1711526585140,1897702,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-26,text,false,,2556,0,4,4,http://192.168.88.229:5000/api_ocr_kdcl,0,0,2
+1711526645490,1837351,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-78,text,false,,2556,0,4,4,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526605627,1877215,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-45,text,false,,2556,0,2,2,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
+1711526580467,1902375,HTTP Request_test API kdcl pdf 2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-24,text,false,,2556,0,2,2,http://192.168.88.229:5000/api_ocr_kdcl,0,0,1
